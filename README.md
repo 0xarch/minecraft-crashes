@@ -1,1 +1,7 @@
-# minecraft-crashes
+# 崩溃收集仓库
+
+本仓库仅用于收集 Minecraft 崩溃日志并予以解答，并会保存常用错误。
+
+使用本仓库时请保证你有一个 Github 账户，并且你知道怎么提 Issue
+
+提问方式：提Issue
